@@ -1,2 +1,9 @@
 # Ring-of-the-Condemned-
-<link href="www.iloveyoulikeafatladylovesapples.com" type="text/css">
+<html>
+<head>
+<body>
+<title>sweg</title>
+<link href="www.iloveyoulikeafatladylovesapples.com" Swiggity>
+</body>
+</head>
+</html>
